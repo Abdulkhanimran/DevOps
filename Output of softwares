@@ -44,7 +44,7 @@ kind v0.33.0 go1.26.7 windows/amd64
 version.BuildInfo{Version:"v4.3.0", GitCommit:"bec5b06ed841fe5269972d864d5177944fd5970f", GitTreeState:"clean", GoVersion:"go1.27.1", KubeClientVersion:"v1.37"}
  aws sts get-caller-identity
 {
-    "UserId": "AIDATEUGAJAOXBEIHEN7B",
+    "UserId": "###",
     "Account": "#########",
     "Arn": "arn:aws:iam::#######:user/A***9"
 }
